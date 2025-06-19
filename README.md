@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Imam Hossain</h1>
 <h3 align="center">🚀 Full-Stack Developer | Django • Laravel • Android | DevOps & Cloud | ERP Systems</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cm2889&label=Profile%20views&color=0e75b6&style=flat" alt="cm2889" />
-</p>
+
 
 ---
 
