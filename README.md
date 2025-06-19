@@ -47,15 +47,15 @@ I’m Imam Hossain, a results-driven **Full-Stack Developer** and **IT Head** wi
 
 🔹 **ERP Automation System**  
 ERP built with Django, covering HR, Compliance, BOM Costing, and real-time Inventory  
-🔗 [View Repository](https://github.com/yourusername/erp-project)
+🔗 [View Project ](http://erp.izakaya.com.bd/)
 
-🔹 **Mobile Task Tracker**  
-Android app + Laravel backend for team task tracking, live updates, and notifications  
-🔗 [View Repository](https://github.com/yourusername/mobile-task-app)
+🔹 **Art Commerce & Engagement Platform | Full-Stack Web & CMS Development**  
+This system integrates online and offline commerce, artist engagement, and immersive technologies to create a modern ecosystem for art transactions and experiences.  
+🔗 [View Repository](http://plat-forms.com/)
 
 🔹 **AI-Powered Inventory Manager**  
 Inventory auto-update & forecasting engine using ML + Django + Celery  
-🔗 [View Repository](https://github.com/yourusername/inventory-ai)
+🔗 [View Repository](https://dev.localeweb.com/hr/main-dashboard/)
 
 ---
 
@@ -76,18 +76,7 @@ Inventory auto-update & forecasting engine using ML + Django + Celery
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cm2889&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cm2889&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cm2889&show_icons=true&layout=compact&theme=tokyonight" width="60%" />
-</p>
-
----
 
 ## 📬 Connect with Me
 
